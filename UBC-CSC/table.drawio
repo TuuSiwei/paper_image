@@ -1,29 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T09:21:40.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QOyHS86vSMt7PJtvW5td" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T09:31:20.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6l0wchBggLQS8zX03PLf" version="24.5.5" type="github">
   <diagram name="第 1 页" id="i78vZYNMH3eGaz_cFO28">
-    <mxGraphModel dx="1550" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oxTENe5CYbJND8xrbzTo-1" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;A child is playing on the slide &lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve; background-color: initial;&quot;&gt;in the park.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2310" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-34" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2080" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-2" value="A young child gleefully slides down the brightly colored slide." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#f9f7ed;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2440" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-34">
+          <mxGeometry width="440" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-3" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;A young child, with a beaming smile, eagerly slides down the slide, surrounded by lush green grass.&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2571" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-36" value="&lt;span style=&quot;white-space-collapse: preserve; color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px;&quot;&gt;&lt;b&gt;A child is playing on the slide &lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;white-space-collapse: preserve; background-color: initial; color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px;&quot;&gt;in the park.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-35">
+          <mxGeometry width="440" height="67" as="geometry">
+            <mxRectangle width="440" height="67" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;A young child gleefully slides down the brightly colored slide.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2450" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-34">
+          <mxGeometry y="67" width="440" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-5" value="A child is playing on the slide, and he enjoys it." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2331" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-38" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;A young child gleefully slides down the brightly colored slide.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-37">
+          <mxGeometry width="440" height="66" as="geometry">
+            <mxRectangle width="440" height="66" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-6" value="A joyful child quickly slides down a colorful slide, smiling." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2451" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-34">
+          <mxGeometry y="133" width="440" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="oxTENe5CYbJND8xrbzTo-7" value="A child with a radiant smile speeds down a slide, excited by the smooth ride and the beautiful green grass around." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2571" width="280" height="100" as="geometry" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-40" value="&lt;b style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve;&quot;&gt;A young child, with a beaming smile, eagerly slides down the slide, surrounded by lush green grass.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-39">
+          <mxGeometry width="440" height="67" as="geometry">
+            <mxRectangle width="440" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-41" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2080" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-41">
+          <mxGeometry width="440" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-43" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;A child is playing on the slide, and he enjoys it.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-42">
+          <mxGeometry width="440" height="67" as="geometry">
+            <mxRectangle width="440" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-41">
+          <mxGeometry y="67" width="440" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-45" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;A joyful child quickly slides down a colorful slide, smiling.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-44">
+          <mxGeometry width="440" height="66" as="geometry">
+            <mxRectangle width="440" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-41">
+          <mxGeometry y="133" width="440" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-47" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;A child with a radiant smile speeds down a slide, excited by the smooth ride and the beautiful green grass around.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-46">
+          <mxGeometry width="440" height="67" as="geometry">
+            <mxRectangle width="440" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-58" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2080" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-58">
+          <mxGeometry width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SNR=0&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-59">
+          <mxGeometry width="200" height="67" as="geometry">
+            <mxRectangle width="200" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-58">
+          <mxGeometry y="67" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SNR=10&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-61">
+          <mxGeometry width="200" height="66" as="geometry">
+            <mxRectangle width="200" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-58">
+          <mxGeometry y="133" width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-64" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SNR=20&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-63">
+          <mxGeometry width="200" height="67" as="geometry">
+            <mxRectangle width="200" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-65" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2000" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-65">
+          <mxGeometry width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-67" value="&lt;span style=&quot;font-size: 14px; font-weight: 700; text-align: left;&quot;&gt;Source: A young child gleefully slides down the brightly colored slide.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-66">
+          <mxGeometry width="200" height="80" as="geometry">
+            <mxRectangle width="200" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-69" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2000" width="880" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-69">
+          <mxGeometry width="880" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Source after KB encode&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-70">
+          <mxGeometry width="440" height="80" as="geometry">
+            <mxRectangle width="440" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Source after KB decode&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oxTENe5CYbJND8xrbzTo-70">
+          <mxGeometry x="440" width="440" height="80" as="geometry">
+            <mxRectangle width="440" height="80" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
