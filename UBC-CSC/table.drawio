@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T09:15:29.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.5" etag="xSh13dLWP5yQIgghBwF-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T09:18:52.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hyIKduOnGTDXJtEhKQOT" version="24.5.5" type="github">
   <diagram name="第 1 页" id="i78vZYNMH3eGaz_cFO28">
-    <mxGraphModel>
+    <mxGraphModel dx="1550" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oxTENe5CYbJND8xrbzTo-1" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;A child is playing on the slide &lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve; background-color: initial;&quot;&gt;in the park.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2310" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-2" value="A young child gleefully slides down the brightly colored slide." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#f9f7ed;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2440" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-3" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;A young child, with a beaming smile, eagerly slides down the slide, surrounded by lush green grass.&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2571" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;A young child gleefully slides down the brightly colored slide.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2450" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-5" value="A child is playing on the slide, and he enjoys it." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2331" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-6" value="A joyful child quickly slides down a colorful slide, smiling." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2451" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTENe5CYbJND8xrbzTo-7" value="A child with a radiant smile speeds down a slide, excited by the smooth ride and the beautiful green grass around." style="rounded=1;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;fillColor=#eeeeee;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2571" width="280" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
